@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @shinish
 - 👀 I’m interested in making new friends
-- 🌱 I’m currently learning Python, Ansible
 - 💞️ I’m looking to collaborate on PowerShell, Python, DevOps
 - 📫 How to reach me at shinish@live.com
 
